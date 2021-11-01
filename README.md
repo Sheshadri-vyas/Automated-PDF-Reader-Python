@@ -12,8 +12,10 @@ _Install pyttsx3_
 _Install PyPDF2_
   
     pip install PyPDF2
-  
-Add a PDF file in the directory of the Script. 
+    
+
+Add just page number in _pageno.txt_ file & add a _PDF file_ in the directory of the Script.
+   
 It will automatically detect the PDF, no need to make any changes in the code.
 
 **Enjoy!**
