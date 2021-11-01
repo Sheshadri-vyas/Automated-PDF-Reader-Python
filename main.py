@@ -35,7 +35,7 @@ def update(pg):
         s.close()
 
 #Opening the pdf
-book = open('The Emotion Machine_ Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ( PDFDrive ).pdf', 'rb')
+book = open('<PDF_NAME>', 'rb')
 #print("\nBook Opened!\n")
 
 #Read the PDF using PyPDF2
